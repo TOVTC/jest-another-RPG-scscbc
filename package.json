@@ -26,5 +26,8 @@
   "homepage": "https://github.com/TOVTC/jest-another-RPG-scscbc#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
   }
 }
